@@ -1,0 +1,9 @@
+{
+    "player_name": "a",
+    "difficulty": 1,
+    "sanity": 100,
+    "current_score": 0,
+    "hearts_of_dead": 0,
+    "player_position": 12,
+    "ghost_position": 3
+}
